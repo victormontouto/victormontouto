@@ -1,4 +1,4 @@
-# Fala, eu sou o Victor 👋
+# Olá, eu sou o Victor 👋
 
 Tenho 16 anos, sou estudante do ensino médio e gosto de transformar todas as minhas ideias em código.
 > "Intelligence is the ability to avoid doing work, yet getting the work done." - Linus Torvalds 🐧
