@@ -1,6 +1,6 @@
 # Olá, eu sou o Victor 👋
 
-Tenho 16 anos, sou estudante do ensino médio e gosto de transformar todas as minhas ideias em código.
+Tenho 16 anos, sou estudante do ensino médio técnico e gosto de transformar todas as minhas ideias em código.
 > "Intelligence is the ability to avoid doing work, yet getting the work done." - Linus Torvalds 🐧
 
 ## 🗣️ Idiomas
@@ -63,6 +63,7 @@ Tenho 16 anos, sou estudante do ensino médio e gosto de transformar todas as mi
 ## 🌱 Agora eu estou
 
 - Cursando desenvolvimento de sistemas no SENAC
+- Cursando redes de computadores integrado com o ensino médio
 - Estudando Python
 - Trabalhando em um sistema de biblioteca
 - Querendo aprender JavaScript e SQL
